@@ -58,7 +58,7 @@
 	Color	[ 0.393 0.393 0.386 ]  # a000002.2.txt
 	BlendTexture	true
 	Radius	284  # maximum semi-axis
-	Mass<kg>	204.2e18
+	Masskg	204.2e18
 	Density	2920
 	EllipticalOrbit
 	{
@@ -97,7 +97,7 @@
 	Color	[ 0.55 0.531 0.499 ]  # a000003.2.txt
 	BlendTexture	true
 	Radius	144  # maximum semi-axis
-	Mass<kg>	2.75e19
+	Masskg	2.75e19
 	Density	3200
 	EllipticalOrbit
 	{
@@ -138,7 +138,7 @@
 	Texture	"vesta.*"
 	Color	[ 1.0 0.982 0.936 ]  # a000004.2.txt
 	Radius	284.62  # maximum semi-axis
-	Mass<kg>	2.59028e20
+	Masskg	2.59028e20
 	Density	3460
 	EllipticalOrbit
 	{
@@ -179,7 +179,7 @@
 	Color	[ 0.578 0.553 0.508 ]  # a000007.2.txt
 	BlendTexture	true
 	Radius	130  # maximum semi-axis
-	Mass<kg>	13.5e18
+	Masskg	13.5e18
 	Density	3260
 	EllipticalOrbit
 	{
@@ -215,7 +215,7 @@
 	Color	[ 0.239 0.238 0.233 ]  # a000010.2.txt
 	BlendTexture	true
 	Radius	225  # maximum semi-axis
-	Mass<kg>	87.4e18
+	Masskg	87.4e18
 	Density	2060
 	EllipticalOrbit
 	{
@@ -257,7 +257,7 @@
 	Color	[ 0.438 0.424 0.401 ]  # a000016.2.txt
 	BlendTexture	true
 	Radius	139  # maximum semi-axis
-	Mass<kg>	2.399e19
+	Masskg	2.399e19
 	Density	4172
 	EllipticalOrbit
 	{
@@ -297,7 +297,7 @@
 	Color	[ 0.258 0.256 0.25 ]  # a000045.2.txt
 	BlendTexture	true
 	Radius	126  # maximum semi-axis
-	Mass<kg>	5.6321e18
+	Masskg	5.6321e18
 	Density	1660
 	EllipticalOrbit
 	{
@@ -404,7 +404,7 @@
 	Color	[ 0.201 0.197 0.191 ]  # a000087.2.txt
 	BlendTexture	true
 	Radius	181.5  # maximum semi-axis; MPCD model
-	Mass<kg>	1.440e19
+	Masskg	1.440e19
 	Density	1378
 	EllipticalOrbit
 	{
@@ -439,7 +439,7 @@
 	Color	[ 0.201 0.197 0.191 ]
 	BlendTexture	true
 	Radius	5.15
-	Mass<kg>	7.8e14
+	Masskg	7.8e14
 	# Density	1480
 	OrbitFrame	{ EquatorJ2000 {} }
 	EllipticalOrbit
@@ -478,7 +478,7 @@
 	BlendTexture	true
 	# Radius	7.55
 	SemiAxes	[ 19 7 7 ]
-	Mass<kg>	1.4e15
+	Masskg	1.4e15
 	# Density	790
 	OrbitFrame	{ EquatorJ2000 {} }
 	EllipticalOrbit
@@ -517,7 +517,7 @@
 	Color	[ 0.255 0.253 0.238 ]  # a000130.2.txt
 	BlendTexture	true
 	Radius	135  # maximum semi-axis; mean of two models
-	Mass<kg>	6.606e18
+	Masskg	6.606e18
 	Density	1536
 	EllipticalOrbit
 	{
@@ -552,7 +552,7 @@
 	Color	[ 0.255 0.253 0.238 ]
 	BlendTexture	true
 	Radius	1.0
-	Mass<kg>	6.8e12
+	Masskg	6.8e12
 	OrbitFrame	{ EclipticJ2000 {} }
 	EllipticalOrbit
 	{
@@ -587,7 +587,7 @@
 	Color	[ 0.255 0.253 0.238 ]
 	BlendTexture	true
 	Radius	0.8
-	Mass<kg>	3.4e12
+	Masskg	3.4e12
 	OrbitFrame	{ EclipticJ2000 {} }
 	EllipticalOrbit
 	{
@@ -622,7 +622,7 @@
 	Color	[ 0.255 0.253 0.238 ]
 	BlendTexture	true
 	Radius	3.0
-	Mass<kg>	1.8e14
+	Masskg	1.8e14
 	OrbitFrame	{ EclipticJ2000 {} }
 	EllipticalOrbit
 	{
@@ -664,7 +664,7 @@
 	Color	[ 0.459 0.45 0.443 ]  # a000216.2.txt
 	BlendTexture	true
 	Radius	133.5  # maximum semi-axis; MPCD model
-	Mass<kg>	2.97e18
+	Masskg	2.97e18
 	Density	3380
 	EllipticalOrbit
 	{
@@ -699,7 +699,7 @@
 	Color	[ 0.459 0.45 0.443 ]
 	BlendTexture	true
 	Radius	3.45
-	Mass<kg>	4e14
+	Masskg	4e14
 	# Density	2300
 	OrbitFrame	{ EclipticJ2000 {} }
 	EllipticalOrbit
@@ -735,7 +735,7 @@
 	Color	[ 0.459 0.45 0.443 ]
 	BlendTexture	true
 	Radius	4.45
-	Mass<kg>	6e14
+	Masskg	6e14
 	# Density	1600
 	OrbitFrame	{ EclipticJ2000 {} }
 	EllipticalOrbit
@@ -772,7 +772,7 @@
 	Color	[ 0.216 0.218 0.221 ]  # a000704.2.txt
 	BlendTexture	true
 	Radius	177  # maximum semi-axis
-	Mass<kg>	35.2e18
+	Masskg	35.2e18
 	Density	1840
 	EllipticalOrbit
 	{
@@ -885,7 +885,7 @@
 	Color	[ 0.999 1.0 0.984 ]  # a000253.2.txt
 	BlendTexture	true
 	Radius	33  # maximum semi-axis
-	Mass<kg>	1.033e17
+	Masskg	1.033e17
 	Density	1300
 	EllipticalOrbit
 	{
@@ -926,7 +926,7 @@
 	Color	[ 1.0 0.959 0.852 ]
 	BlendTexture	true
 	Radius	17.0  # maximum semi-axis
-	Mass<kg>	6.6904e15
+	Masskg	6.6904e15
 	Density	2670
 	EllipticalOrbit
 	{
@@ -1022,7 +1022,7 @@
 		Inclination	133.62
 		AscendingNode	266.35
 		MeridianAngle	155.3
-		PrecessionPeriod<d>	7.40
+		PrecessionPeriod 0.02026
 	}
 	LunarLambert	0.9
 	# GeomAlbedo	0.185  # Bach et al. (2019), 2019JKAS...52...71B
@@ -1046,7 +1046,7 @@
 	Color	[ 1.0 0.956 0.888 ]
 	BlendTexture	true
 	Radius	0.275  # maximum semi-axis (osculating box)
-	Mass<kg>	3.51e10
+	Masskg	3.51e10
 	Density	1900
 	EllipticalOrbit
 	{
@@ -1090,7 +1090,7 @@
 	MeshCenter	[ 0.0058 0.0017 0.0027 ]  # zero COM-COF offset
 	Color	[ 1.0 0.984 0.917 ]  # au1996GT.7.txt
 	Radius	0.40912  # maximum semi-axis; from model extent
-	Mass<kg>	5.3e11
+	Masskg	5.3e11
 	Density	2790
 	EllipticalOrbit
 	{
@@ -1134,7 +1134,7 @@
 			EllipticalOrbit
 			{
 				Epoch	2459849.469136173  # 2022 Sept 26 23:15:33.3653 TDB
-				Period<h>	11.921493
+				Period	0.496728
 				SemiMajorAxis	1.189
 				Inclination	170.7
 				AscendingNode	40
@@ -1157,7 +1157,7 @@
 			EllipticalOrbit
 			{
 				Epoch	2459849.469136173  # 2022 Sept 26 23:15:33.3653 TDB
-				Period<h>	11.3674
+				Period	0.4736
 				SemiMajorAxis	1.15729  # calculated so that apocenter matches pre-impact SMA
 				Eccentricity	0.0274
 				Inclination	170.7
@@ -1201,7 +1201,7 @@
 	Color	[ 0.994 0.995 1.0 ]
 	BlendTexture	true
 	Radius	0.282365  # maximum semi-axis (2019Natur.568...55L)
-	Mass<kg>	7.3304e10
+	Masskg	7.3304e10
 	Density	1191.57
 	EllipticalOrbit
 	{
@@ -1249,7 +1249,7 @@
 	Texture	"ryugu.*"
 	Color	[ 0.991 0.986 1.0 ]
 	Radius	0.502  # equatorial
-	Mass<kg>	4.50e11
+	Masskg	4.50e11
 	Density	1190
 	EllipticalOrbit
 	{
@@ -1296,7 +1296,7 @@
 	BlendTexture	true
 	Radius	2.52  # maximum semi-axis
 	SemiAxes	[ 1 1 0.767 ]
-	Mass<kg>	1.62e13
+	Masskg	1.62e13
 	Density	2100
 	EllipticalOrbit
 	{
@@ -1415,7 +1415,7 @@
 	Color	[ 0.428 0.401 0.351 ]  # a006489visir8.visir.txt
 	BlendTexture	true
 	Radius	0.3425  # maximum semi-axis
-	Mass<kg>	2.1e11
+	Masskg	2.1e11
 	Density	2700
 	EllipticalOrbit
 	{
@@ -1456,7 +1456,7 @@
 	Color	[ 0.474 0.451 0.404 ]
 	BlendTexture	true
 	Radius	0.766  # maximum semi-axis
-	Mass<kg>	2.353e12
+	Masskg	2.353e12
 	Density	1970
 	EllipticalOrbit
 	{
@@ -1492,12 +1492,12 @@
 	Color	[ 0.474 0.451 0.404 ]
 	BlendTexture	true
 	Radius	0.37115  # maximum semi-axis; scaled by 130%
-	Mass<kg>	0.135e12
+	Masskg	0.135e12
 	OrbitFrame	{ EclipticJ2000 {} }
 	EllipticalOrbit
 	{
 		Epoch	2455305.0  # 2010 Apr 18 12:00
-		Period<h>	17.45763
+		Period	0.04779
 		SemiMajorAxis	2.548
 		Inclination	152.3
 		AscendingNode	59.6
@@ -1534,7 +1534,7 @@
 	Color	[ 0.148 0.147 0.143 ]
 	BlendTexture	true
 	Radius	1.45  # maximum semi-axis
-	Mass<kg>	917.466e10
+	Masskg	917.466e10
 	Density	1100
 	EllipticalOrbit
 	{
@@ -1568,7 +1568,7 @@
 	Color	[ 0.148 0.147 0.143 ]
 	BlendTexture	true
 	Radius	0.27  # maximum semi-axis
-	Mass<kg>	9.773e10
+	Masskg	9.773e10
 	Density	2300
 	OrbitFrame	{ EquatorJ2000 {} }
 	EllipticalOrbit
@@ -1605,7 +1605,7 @@
 	Color	[ 0.148 0.147 0.143 ]
 	BlendTexture	true
 	Radius	0.5  # maximum semi-axis
-	Mass<kg>	24.039e10
+	Masskg	24.039e10
 	Density	1000
 	OrbitFrame	{ EquatorJ2000 {} }
 	EllipticalOrbit
@@ -1715,7 +1715,7 @@
 #   https://ui.adsabs.harvard.edu/abs/2024AJ....167..104B/abstract
 ReferencePoint "Patroclus-Menoetius" "Sol"
 {
-	# Mass<kg>	1.424e18
+	# Masskg	1.424e18
 	# Density	1050
 	EllipticalOrbit  # system barycenter solution
 	{
@@ -1819,7 +1819,7 @@ ReferencePoint "Patroclus-Menoetius" "Sol"
 	Color	[ 0.233 0.232 0.224 ]
 	BlendTexture	true
 	SemiAxes	[ 38.75 35.65 30.9 ]
-	Mass<kg>	1.4e17
+	Masskg	1.4e17
 	Density	800  # Levison et al. (2025), 2025SSRv..221...63L
 	EllipticalOrbit
 	{
