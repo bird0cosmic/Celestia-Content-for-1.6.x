@@ -1,0 +1,3 @@
+The only files you need to tranfer are dwarfplanets.ssc , asteroids.ssc , outersts.ssc , solarsys.ssc , and nearstars.stc .
+
+You now need to correct math and remove <Rs> from the code. Remember to multiply by 695,700

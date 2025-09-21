@@ -54,7 +54,7 @@ ReferencePoint "Pluto-Charon" "Sol"
 	NormalMap	"pluto-normal.*"
 	Color	[ 1.0 0.95948 0.86047 ]
 	Radius	1188.3
-	Mass<kg>	1.3025e22
+	Masskg	1.3025e22
 	Atmosphere
 	{
 		Height	130
@@ -102,7 +102,7 @@ ReferencePoint "Pluto-Charon" "Sol"
 	NormalMap	"charon-normal.*"
 	Color	[ 0.994 1.0 0.972 ]
 	Radius	606.0
-	Mass<kg>	1.5897e21
+	Masskg	1.5897e21
 	OrbitFrame
 	{
 		EclipticJ2000	{ Center "Sol/Pluto-Charon" }
@@ -172,7 +172,7 @@ ReferencePoint "Pluto-Charon" "Sol"
 	MeshCenter	[ -2.401 -2.074 3.591 ]
 	Texture	"nix.*"
 	Radius	24.2  # maximum-semi-axis
-	Mass<kg>	2.7e16
+	Masskg	2.7e16
 	Density	1030
 	OrbitFrame
 	{
@@ -243,7 +243,7 @@ ReferencePoint "Pluto-Charon" "Sol"
 	MeshCenter	[ -2.132 -1.112 -0.1515 ]
 	Texture	"hydra.*"
 	Radius	26.0  # maximum-semi-axis
-	Mass<kg>	3.0e16
+	Masskg	3.0e16
 	Density	1220
 	OrbitFrame
 	{
@@ -284,7 +284,7 @@ ReferencePoint "Pluto-Charon" "Sol"
 	NormalMap	"ceres-normal.*"
 	Color	[ 1.0 0.993 0.962 ]
 	SemiAxes	[ 482.2 482.1 445.9 ]
-	Mass<kg>	9.38392e20
+	Masskg	9.38392e20
 	Density	2161.6
 	EllipticalOrbit
 	{
@@ -351,7 +351,7 @@ ReferencePoint "Orcus-Vanth" "Sol"
 	Color	[ 0.575 0.57 0.563 ]
 	BlendTexture	true
 	Radius	455
-	Mass<kg>	5.45e20
+	Masskg	5.45e20
 	OrbitFrame
 	{
 		EquatorJ2000	{ Center "Sol/Orcus-Vanth" }
@@ -391,7 +391,7 @@ ReferencePoint "Orcus-Vanth" "Sol"
 	Color	[ 0.487 0.469 0.455 ]
 	BlendTexture	true
 	Radius	221.25
-	Mass<kg>	8.7e19
+	Masskg	8.7e19
 	OrbitFrame
 	{
 		EquatorJ2000	{ Center "Sol/Orcus-Vanth" }
@@ -433,7 +433,7 @@ ReferencePoint "Orcus-Vanth" "Sol"
 	Color	[ 0.635 0.635 0.636 ]
 	BlendTexture	true
 	SemiAxes	[ 1050 840 537 ]
-	Mass<kg>	3952.44e18  # HST-only fit
+	Masskg	3952.44e18  # HST-only fit
 	OrbitFrame
 	{
 		EclipticJ2000	{ Center "SSB" }
@@ -477,7 +477,7 @@ ReferencePoint "Orcus-Vanth" "Sol"
 	Mesh	"asteroid.cms"
 	Texture	"icymoon.*"
 	Radius	75
-	Mass<kg>	1.18e18  # HST-only fit
+	Masskg	1.18e18  # HST-only fit
 	# Density	650
 	OrbitFrame	{ EclipticJ2000 {} }
 	EllipticalOrbit  # HST-only fit
@@ -514,7 +514,7 @@ ReferencePoint "Orcus-Vanth" "Sol"
 	Mesh	"roughsphere.cms"
 	Texture	"icymoon.*"
 	SemiAxes	[ 238 185 143 ]
-	Mass<kg>	12.13e18  # HST-only fit
+	Masskg	12.13e18  # HST-only fit
 	Density	685
 	OrbitFrame	{ EclipticJ2000 {} }
 	EllipticalOrbit  # HST-only fit
@@ -559,7 +559,7 @@ ReferencePoint "Orcus-Vanth" "Sol"
 	BlendTexture	true
 	Radius	545  # volume-equivalent
 	SemiAxes	[ 1.18 0.992 0.855 ]  # a/b = 1.19, b/c = 1.16
-	Mass<kg>	1.208e21
+	Masskg	1.208e21
 	OrbitFrame
 	{
 		EclipticJ2000	{ Center "SSB" }
@@ -653,7 +653,7 @@ ReferencePoint "Orcus-Vanth" "Sol"
 	BlendTexture	true
 	Radius	717
 	Oblateness	0.0098
-	Mass<kg>	3.1e21
+	Masskg	3.1e21
 	OrbitFrame
 	{
 		EclipticJ2000	{ Center "SSB" }
@@ -712,7 +712,7 @@ ReferencePoint "Orcus-Vanth" "Sol"
 	Color	[ 0.507 0.444 0.327 ]
 	BlendTexture	true
 	Radius	615
-	Mass<kg>	1.75e21
+	Masskg	1.75e21
 	OrbitFrame
 	{
 		EclipticJ2000	{ Center "SSB" }
@@ -796,7 +796,7 @@ ReferencePoint "Orcus-Vanth" "Sol"
 	Color	[ 1.0 0.994 0.968 ]
 	BlendTexture	true
 	Radius	1163
-	Mass<kg>	1.638e22
+	Masskg	1.638e22
 	OrbitFrame
 	{
 		EclipticJ2000	{ Center "SSB" }
@@ -835,7 +835,7 @@ ReferencePoint "Orcus-Vanth" "Sol"
 	Color	[ 0.373 0.373 0.373 ]
 	BlendTexture	true
 	Radius	307.5
-	Mass<kg>	8e19
+	Masskg	8e19
 	OrbitFrame	{ EquatorJ2000 {} }
 	EllipticalOrbit
 	{

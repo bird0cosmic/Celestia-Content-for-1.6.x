@@ -280,7 +280,7 @@ Barycenter "Solar System Barycenter:SSB"
 
 	UniformRotation
 	{
-	    Period<d>	25.38
+	    Period	609.12
 	    Inclination	7.25
 	    AscendingNode	75.77
 	    MeridianAngle	23.00  # standard meridian
@@ -303,14 +303,14 @@ Barycenter "Solar System Barycenter:SSB"
 	Dec	-62.67607512
 	Distance	4.2465 # 768.0665 +/- 0.0499 mas
 
-	Radius<rS>	0.154
+	Radius	107137.8
 	SpectralType	"M5.5Ve"
 	AppMag	11.083
 	Temperature	2901
 
 	UniformRotation
 	{
-	    Period<d>	82.6
+	    Period	1982.4
 		Inclination	155.19863
 		AscendingNode	247.37042
 	}
@@ -334,7 +334,7 @@ Barycenter "ALF Cen:Gliese 559"
 
 71683 # ALF Cen A
 {
-	Radius<rS>	1.2175
+	Radius	847014.75
 	SpectralType	"G2V"
 	AppMag	0.01
 	Temperature	5795
@@ -351,14 +351,14 @@ Barycenter "ALF Cen:Gliese 559"
 	}
 	UniformRotation
 	{
-	    Period<d>	28.3
+	    Period	679.2
 	}
 	InfoURL "https://en.wikipedia.org/wiki/Alpha_Centauri"
 }
 
 71681 # ALF Cen B
 {
-	Radius<rS>	0.8591
+	Radius	597675.87
 	SpectralType	"K1V"
 	AppMag	1.33
 	Temperature	5231
@@ -375,7 +375,7 @@ Barycenter "ALF Cen:Gliese 559"
 	}
 	UniformRotation
 	{
-	    Period<d>	36.66
+	    Period	879.84
 	}
 	InfoURL "https://en.wikipedia.org/wiki/Alpha_Centauri"
 }
@@ -392,14 +392,14 @@ Barycenter "ALF Cen:Gliese 559"
 	Dec	4.73942005
 	Distance	5.9629 # 546.9759 +/- 0.0401 mas
 
-	Radius<rS>	0.185
+	Radius	128704.5
 	SpectralType	"M4V"
 	AppMag	9.511
 	Temperature	3238
 
 	UniformRotation
 	{
-	    Period<d>	145
+	    Period	3480
 	}
 	InfoURL "https://en.wikipedia.org/wiki/Barnard%27s_Star"
 }
@@ -496,14 +496,14 @@ Barycenter "Luhman 16:WISE 1049-5319:WISE J104915.57-531906.1:GJ 11551"
 	Dec	7.00272694
 	Distance	7.8558 # 415.1794 +/- 0.0684 mas
 
-	Radius<rS>	0.159
+	Radius	110616.3
 	SpectralType	"M6V"
 	AppMag	13.507
 	Temperature	2657
 
 	UniformRotation
 	{
-	    Period<d>	2.704
+	    Period	64.896
 	}
 	InfoURL "https://en.wikipedia.org/wiki/Wolf_359"
 }
@@ -521,14 +521,14 @@ Barycenter "Luhman 16:WISE 1049-5319:WISE J104915.57-531906.1:GJ 11551"
 	Dec	35.94865303
 	Distance	8.3044 # 392.7529 +/- 0.0321 mas
 
-	Radius<rS>	0.387
+	Radius	269235.9
 	SpectralType	"M2V"
 	AppMag	7.520
 	Temperature	3532
 
 	UniformRotation
 	{
-	    Period<d>	56.15
+	    Period	1347.6
 	}
 	InfoURL "https://en.wikipedia.org/wiki/Lalande_21185"
 }
@@ -547,7 +547,7 @@ Barycenter 32349 "Sirius:Dog Star:ALF CMa:9 CMa:Gliese 244:ADS 5423"
 
 "Sirius A:Dog Star A:ALF CMa A:9 CMa A:Gliese 244 A:ADS 5423 A"
 {
-	Radius<rS>	1.7144
+	Radius	1192708.08
 	SpectralType	"A1V"
 	AppMag	-1.46
 	Temperature	9845
@@ -567,7 +567,7 @@ Barycenter 32349 "Sirius:Dog Star:ALF CMa:9 CMa:Gliese 244:ADS 5423"
 
 "Sirius B:Dog Star B:ALF CMa B:9 CMa B:Gliese 244 B:ADS 5423 B"
 {
-	Radius<rS>	0.008098
+	Radius	5633.7786
 	SpectralType	"DA2"
 	AppMag	8.44
 	Temperature	25369
@@ -614,7 +614,7 @@ Barycenter "Gliese 65:Luyten 726-8"
 
 "BL Cet:Gliese 65 A:Luyten 726-8 A"
 {
-	Radius<rS>	0.165
+	Radius	114790.5
 	SpectralType	"M5.5V"
 	AppMag	12.7
 	Temperature	2784
@@ -632,7 +632,7 @@ Barycenter "Gliese 65:Luyten 726-8"
 	}
 	UniformRotation               # Assume closest alignment with orbital plane
 	{
-	    Period<d>	0.2430
+	    Period	5.832
 		Inclination	111
 		AscendingNode	40
 	}
@@ -641,7 +641,7 @@ Barycenter "Gliese 65:Luyten 726-8"
 
 "UV Cet:Gliese 65 B:Luyten 726-8 B"
 {
-	Radius<rS>	0.159
+	Radius	110616.3
 	SpectralType "M6V"
 	AppMag 13.2
 	Temperature	2728
@@ -659,7 +659,7 @@ Barycenter "Gliese 65:Luyten 726-8"
 	}
 	UniformRotation               # Assume closest alignment with orbital plane
 	{
-	    Period<d>	0.2268
+	    Period	5.4432
 		Inclination	110
 		AscendingNode	36
 	}
@@ -677,14 +677,14 @@ Barycenter "Gliese 65:Luyten 726-8"
 	Dec	-23.83709745
 	Distance	9.7063 # 336.0266 +/- 0.0317 mas
 
-	Radius<rS>	0.205
+	Radius	142618.5
 	SpectralType "M3.5Ve"
 	AppMag 10.495
 	Temperature	3162
 
 	UniformRotation
 	{
-	    Period<d>	2.848
+	    Period	68.352
 		Inclination	0
 		AscendingNode	0
 	}
@@ -717,14 +717,14 @@ Barycenter "Gliese 65:Luyten 726-8"
 	Dec	-9.45816822
 	Distance	10.501 # 310.60 +/- 0.04 mas
 
-	Radius<rS>	0.738
+	Radius	513426.6
 	SpectralType	"K2V"
 	AppMag	3.73
 	Temperature	5052
 
 	UniformRotation
 	{
-	    Period<d>	11.4
+	    Period	273.6
 	    Inclination	12            # Inclination = 70 degrees
 	    AscendingNode	88        # Rotation axis position angle = 335 degrees
 	}
@@ -838,7 +838,7 @@ Barycenter "61 Cyg:Gliese 820:ADS 14636"
 #   https://ui.adsabs.harvard.edu/abs/2016A%26A...594A..29B/abstract
 104214 "61 Cyg A:HD 201091:V1803 Cyg:Gliese 820 A:ADS 14636 A"
 {
-	Radius<rS>	0.6611
+	Radius	459927.27
 	SpectralType	"K5V"
 	AppMag	5.21
 	Temperature	4399
@@ -855,7 +855,7 @@ Barycenter "61 Cyg:Gliese 820:ADS 14636"
 	}
 	UniformRotation
 	{
-	    Period<d>	35.54
+	    Period	852.96
 		Inclination	0
 		AscendingNode	0
 	}
@@ -864,7 +864,7 @@ Barycenter "61 Cyg:Gliese 820:ADS 14636"
 
 104217 "61 Cyg B:HD 201092:Gliese 820 B:ADS 14636 B"
 {
-	Radius<rS>	0.6010
+	Radius	418115.7
 	SpectralType	"K7V"
 	AppMag	6.03
 	Temperature	4025
@@ -881,7 +881,7 @@ Barycenter "61 Cyg:Gliese 820:ADS 14636"
 	}
 	UniformRotation
 	{
-	    Period<d>	34.55
+	    Period	829.2
 	}
 	InfoURL "https://en.wikipedia.org/wiki/61_Cygni"
 }
@@ -908,7 +908,7 @@ Barycenter 37279 "Procyon:ALF CMi:10 CMi:Gliese 280:ADS 6251"
 #   https://ui.adsabs.harvard.edu/abs/2007MNRAS.374..220K/abstract
 "Procyon A:ALF CMi A:10 CMi A:Gliese 280 A:ADS 6251 A"
 {
-	Radius<rS>	2.0468
+	Radius	1423958.76
 	SpectralType "F5IV"
 	AppMag 0.37
 	Temperature	6582
@@ -925,7 +925,7 @@ Barycenter 37279 "Procyon:ALF CMi:10 CMi:Gliese 280:ADS 6251"
 	}
 	UniformRotation
 	{
-	    Period<d>	23
+	    Period	552
 	}
 	InfoURL "https://en.wikipedia.org/wiki/Procyon"
 }
@@ -936,7 +936,7 @@ Barycenter 37279 "Procyon:ALF CMi:10 CMi:Gliese 280:ADS 6251"
 #   https://ui.adsabs.harvard.edu/abs/2002ApJ...568..324P/abstract
 "Procyon B:ALF CMi B:10 CMi B:Gliese 280 B:ADS 6251 B"
 {
-	Radius<rS>	0.01232
+	Radius	8571.024
 	SpectralType "DQZ"
 	AppMag 10.82
 	Temperature 7740
@@ -1080,14 +1080,14 @@ Barycenter "EPS Ind:Gliese 845" # orbit of A & B components unknown
 	Dec	-56.79711407
 	Distance	11.8623 # 274.9531 +/- 0.1457 mas
 
-	Radius<rS>	0.713
+	Radius	496034.1
 	SpectralType	"K5V"
 	AppMag	4.69
 	Temperature	4649
 
 	UniformRotation
 	{
-	    Period<d>	35.732
+	    Period	857.568
 	}
 	InfoURL "https://en.wikipedia.org/wiki/Epsilon_Indi"
 }
@@ -1112,7 +1112,7 @@ Barycenter "EPS Ind B:CI Ind:Gliese 845 B:GJ 13185"
 
 "EPS Ind Ba:CI Ind A:Gliese 845 Ba:GJ 13185 A"
 {
-	Radius<rS>	0.08762
+	Radius	60957.234
 	SpectralType	"T1.5V"
 	AppMag	24.12
 	Temperature	1304
@@ -1132,7 +1132,7 @@ Barycenter "EPS Ind B:CI Ind:Gliese 845 B:GJ 13185"
 
 "EPS Ind Bb:CI Ind B:Gliese 845 Bb:GJ 13185 B"
 {
-	Radius<rS>	0.08698
+	Radius	60511.986
 	SpectralType	"T6V"
 	AbsMag	40 # extremely low
 	Temperature	963
@@ -1164,14 +1164,14 @@ Barycenter "EPS Ind B:CI Ind:Gliese 845 B:GJ 13185"
 	Dec	-15.93368020
 	Distance	11.9118 # 273.8097 +/- 0.1701 mas
 
-	Radius<rS>	0.793
+	Radius	551690.1
 	SpectralType "G8V"
 	AppMag 3.50
 	Temperature	5320
 
 	UniformRotation                   # Assume closest alignment with orbital plane
 	{
-	    Period<d>	46
+	    Period	1104
 		Inclination	59.773929         # Inclination: 7 +/- 7 degrees (Korolik et al. (2023), AJ 166 (3), id.123)
 		AscendingNode	282.809320    # Major axis position angle: 105 degrees (Lawler et al. (2014), MNRAS 444 (3), p.2665-2675)
 	}
@@ -1651,14 +1651,14 @@ Barycenter "GJ 1245 A"
 	Dec	49.45198890
 	Distance	15.8857 # 205.3148 +/- 0.0224 mas
 
-	Radius<rS>	0.6398
+	Radius	445108.86
 	SpectralType	"K6Ve"
 	AppMag	6.61
 	Temperature	4176
 
 	UniformRotation
 	{
-	    Period<d>	11.67
+	    Period	280.08
 	}
 	InfoURL "https://en.wikipedia.org/wiki/Groombridge_1618"
 }
@@ -1741,14 +1741,14 @@ Barycenter 19849 "Keid:OMI2 Eri:40 Eri:Gliese 166:ADS 3093" # Orbits of A & (BC)
 	Dec	-7.66807782
 	Distance	16.3398 # 199.6080 +/- 0.1208 mas
 
-	Radius<rS>	0.8051
+	Radius	560108.07
 	SpectralType	"K0V"
 	AppMag	4.43
 	Temperature	5147
 
 	UniformRotation
 	{
-	    Period<d>	43.504
+	    Period	1044.096
 	}
 	InfoURL "https://en.wikipedia.org/wiki/40_Eridani"
 }
@@ -1765,7 +1765,7 @@ Barycenter "Keid BC:OMI2 Eri BC:40 Eri BC:Gliese 166 BC"
 #   http://iopscience.iop.org/article/10.3847/1538-4357/aa8a63/meta
 "Keid B:OMI2 Eri B:40 Eri B:Gliese 166 B:ADS 3093 B"
 {
-	Radius<rS>	0.01308
+	Radius	9099.756
 	SpectralType	"DA3"
 	AppMag	9.53
 	Temperature	17200
@@ -1804,7 +1804,7 @@ Barycenter "Keid BC:OMI2 Eri BC:40 Eri BC:Gliese 166 BC"
 	}
 	UniformRotation
 	{
-	    Period<d>	81.0
+	    Period	1944
 	}
 	InfoURL "https://en.wikipedia.org/wiki/40_Eridani"
 }
@@ -1833,7 +1833,7 @@ Barycenter 88601 "70 Oph:Gliese 702:Struve 2272:ADS 11046"
 
 1052130434 "70 Oph A:Gliese 702 A:Struve 2272 A:ADS 11046 A"
 {
-	Radius<rS>	0.8310
+	Radius	578126.7
 	SpectralType	"K0V"
 	AppMag	4.191
 	Temperature	5407
@@ -1850,7 +1850,7 @@ Barycenter 88601 "70 Oph:Gliese 702:Struve 2272:ADS 11046"
 	}
 	UniformRotation
 	{
-	    Period<d>	19.5
+	    Period	468
 	}
 	InfoURL "https://en.wikipedia.org/wiki/70_Ophiuchi"
 }
@@ -1858,7 +1858,7 @@ Barycenter 88601 "70 Oph:Gliese 702:Struve 2272:ADS 11046"
 # Temperature from Mann et al. (2013), AJ 779 (2), id. 188
 1052120434 "70 Oph B:V2391 Oph:Gliese 702 B:Struve 2272 B:ADS 11046 B"
 {
-	Radius<rS>	0.6697
+	Radius	465910.29
 	SpectralType	"K4V"
 	AppMag	6.061
 	Temperature	4475
@@ -1886,7 +1886,7 @@ Barycenter 88601 "70 Oph:Gliese 702:Struve 2272:ADS 11046"
 	Dec	8.86832120
 	Distance	16.730 # 194.95 +/- 0.57 mas
 
-	Radius<rS>	2.008           # Equatorial radius: 2.008 ± 0.006 / Polar radius: 1.565 ± 0.014
+	Radius	1396965.6           # Equatorial radius: 2.008 ± 0.006 / Polar radius: 1.565 ± 0.014
 	SemiAxes	[ 1 0.779 1 ]   # Flattening: 0.220 ± 0.003
 	SpectralType	"A7IV"
 	AppMag	0.76
@@ -2302,14 +2302,14 @@ Barycenter "Gliese 229 B:Luyten 668-21 B:LPM 230 B"
 	Dec	69.65345106
 	Distance	18.7993 # 173.4939 +/- 0.0748 mas
 
-	Radius<rS>	0.772
+	Radius	537080.4
 	SpectralType	"K0V"
 	AppMag	4.680
 	Temperature	5255
 
 	UniformRotation
 	{
-	    Period<d>	27
+	    Period	648
 	}
 	InfoURL "https://en.wikipedia.org/wiki/Sigma_Draconis"
 }
@@ -2339,7 +2339,7 @@ Barycenter "Gliese 570:ADS 9446"
 # Rotation period from Cincunegui et al. (2007), A&A 469 (1), pp.309-317
 73184 "KX Lib:Gliese 570 A:ADS 9446 A"
 {
-	Radius<rS>	0.715
+	Radius	497425.5
 	SpectralType	"K4V"
 	AppMag	5.64
 	Temperature	4505
@@ -2356,7 +2356,7 @@ Barycenter "Gliese 570:ADS 9446"
 	}
 	UniformRotation
 	{
-	    Period<d>	44.6
+	    Period	1070.4
 		Inclination      0
 		AscendingNode    0
 	}
@@ -2383,7 +2383,7 @@ Barycenter 73182 "Gliese 570 BC"
 
 "Gliese 570 B:ADS 9446 B"
 {
-	Radius<rS>	0.67
+	Radius	466119
 	SpectralType	"M1.5V"
 	AppMag	8.33
 	Temperature	3500
@@ -2403,7 +2403,7 @@ Barycenter 73182 "Gliese 570 BC"
 
 "Gliese 570 C:ADS 9446 C"
 {
-	Radius<rS>	0.43
+	Radius	299151
 	SpectralType	"M3V"
 	AppMag	9.94
 	Temperature	3270
@@ -2431,7 +2431,7 @@ Barycenter 73182 "Gliese 570 BC"
 	Dec	-21.36328
 	Distance	19.1987
 
-	Radius<rJ>	0.89
+	Radius	62220.79
 	SpectralType	"T7.5V"
 	AbsMag	40 # extremely low
 	Temperature	786
@@ -2534,7 +2534,7 @@ Barycenter 3821 "Achird:ETA Cas:24 Cas:Gliese 34:ADS 671"
 # Rotation period from Justesen and Albrecht (2020), A&A 642, id.A212
 "Achird A:ETA Cas A:24 Cas A:Gliese 34 A:ADS 671 A"
 {
-	Radius<rS>	1.0386
+	Radius	722554.02
 	SpectralType	"G0V"
 	AppMag	3.44
 	Temperature	5973
@@ -2551,7 +2551,7 @@ Barycenter 3821 "Achird:ETA Cas:24 Cas:Gliese 34:ADS 671"
 	}
 	UniformRotation
 	{
-	    Period<d>	16.5
+	    Period	396
 		Inclination	0
 		AscendingNode	0
 	}
@@ -2597,7 +2597,7 @@ Barycenter 84405 "Guniibuu AB:36 Oph AB:Gliese 663 AB"
 # Radius and temperature from Demory et al. (2009), A&A 505 (1), 205
 1003266820 "Guniibuu A:36 Oph A:Gliese 663 A:ADS 10417 A"
 {
-	Radius<rS>	0.817
+	Radius	568386.9
 	SpectralType	"K2V"
 	AppMag	5.08
 	Temperature	4843
@@ -2614,7 +2614,7 @@ Barycenter 84405 "Guniibuu AB:36 Oph AB:Gliese 663 AB"
 	}
 	UniformRotation
 	{
-	    Period<d>	20.3
+	    Period	487.2
 	}
 	InfoURL "https://en.wikipedia.org/wiki/36_Ophiuchi"
 }
@@ -2636,7 +2636,7 @@ Barycenter 84405 "Guniibuu AB:36 Oph AB:Gliese 663 AB"
 	}
 	UniformRotation
 	{
-	    Period<d>	22.9
+	    Period	549.6
 		Inclination      0
 		AscendingNode    0
 	}
@@ -2655,7 +2655,7 @@ Barycenter 84405 "Guniibuu AB:36 Oph AB:Gliese 663 AB"
 
 	UniformRotation
 	{
-	    Period<d>	21
+	    Period	504
 	}
 	InfoURL "https://en.wikipedia.org/wiki/36_Ophiuchi"
 }
@@ -2744,7 +2744,7 @@ Barycenter 99461 "Gliese 783:CD-36 13940:J Herschel 5173:HJ 5173" # orbit of A &
 
 	UniformRotation
 	{
-	    Period<d>	3.44
+	    Period	82.56
 	}
 }
 
@@ -2769,14 +2769,14 @@ Barycenter 99461 "Gliese 783:CD-36 13940:J Herschel 5173:HJ 5173" # orbit of A &
 	Dec	-43.06655253
 	Distance	19.7045 # 165.5242 +/- 0.0784 mas
 
-	Radius<rS>	0.93    # not directly measured
+	Radius	647001    # not directly measured
 	SpectralType	"G6V"
 	AppMag	4.27
 	Temperature	5368
 
 	UniformRotation
 	{
-	    Period<d>	38.8
+	    Period	931.2
 	}
 	InfoURL "https://en.wikipedia.org/wiki/82_G._Eridani"
 }
@@ -2834,14 +2834,14 @@ Barycenter 34603 "Gliese 268:Ross 986"
 	Dec	-66.18709128
 	Distance	19.8931 # 163.9544 +/- 0.1222 mas
 
-	Radius<rS>	1.197
+	Radius	832752.9
 	SpectralType "G8IV"
 	AppMag 3.56
 	Temperature	5571
 
 	UniformRotation
 	{
-	    Period<d>	21.4
+	    Period	513.6
 	}
 	InfoURL "https://en.wikipedia.org/wiki/Delta_Pavonis"
 }
@@ -3282,14 +3282,14 @@ Barycenter "Gliese 644 B:Wolf 630 B"
 	Dec	57.16966644
 	Distance	21.3364 # 152.8640 +/- 0.0494 mas
 
-	Radius<rS>	0.783
+	Radius	544733.1
 	SpectralType	"K3V"
 	AppMag	5.57
 	Temperature	4678
 
 	UniformRotation
 	{
-	    Period<d>	42.3
+	    Period	1015.2
 	}
 	InfoURL "https://en.wikipedia.org/wiki/HD_219134"
 }
@@ -3374,7 +3374,7 @@ Barycenter 72659 "XI Boo:37 Boo:Gliese 566:ADS 9413"
 #   https://ui.adsabs.harvard.edu/abs/2022A%26A...658A..47K/abstract
 1007221481 "XI Boo A:37 Boo A:Gliese 566 A:ADS 9413 A"
 {
-	Radius<rS>	0.817
+	Radius	568386.9
 	SpectralType "G7Ve"
 	AppMag 4.675
 	Temperature	5545
@@ -3391,7 +3391,7 @@ Barycenter 72659 "XI Boo:37 Boo:Gliese 566:ADS 9413"
 	}
 	UniformRotation    # TODO: Assume closest alignment with orbital plane
 	{
-	    Period<d>	6.43
+	    Period	154.32
 		Inclination	0
 		AscendingNode	0
 	}
@@ -3416,7 +3416,7 @@ Barycenter 72659 "XI Boo:37 Boo:Gliese 566:ADS 9413"
 	}
 	UniformRotation    # TODO: Assume closest alignment with orbital plane
 	{
-	    Period<d>	11.94
+	    Period	286.56
 		Inclination	0
 		AscendingNode	0
 	}
@@ -3835,7 +3835,7 @@ Barycenter 12114 "Gliese 105 AC"
 # Rotation period from Donahue et al. (1996), AJ 466, p.384
 "Gliese 105 A"
 {
-	Radius<rS>	0.7949
+	Radius	553011.93
 	SpectralType	"K3V"
 	AppMag	5.81
 	Temperature	4704
@@ -3852,7 +3852,7 @@ Barycenter 12114 "Gliese 105 AC"
 	}
 	UniformRotation
 	{
-	    Period<d>	48.0
+	    Period	1152
 	}
 	InfoURL "https://en.wikipedia.org/wiki/Gliese_105"
 }
@@ -3972,7 +3972,7 @@ Barycenter 84709 "Gliese 667 AB:CD-34 11626 AB"
 
 	UniformRotation
 	{
-	    Period<d>	103.9
+	    Period	2493.6
 	}
 	InfoURL "https://en.wikipedia.org/wiki/Gliese_667#Gliese_667_C"
 }
@@ -4020,14 +4020,14 @@ Barycenter 84709 "Gliese 667 AB:CD-34 11626 AB"
 	Dec	5.27553945
 	Distance	24.2505 # 134.4948 +/- 0.0578 mas
 
-	Radius<rS>	0.6954
+	Radius	483789.78
 	SpectralType "K2.5V"
 	AppMag 5.74
 	Temperature	4950
 
 	UniformRotation
 	{
-	    Period<d>	38.5
+	    Period	924
 	}
 	InfoURL "https://en.wikipedia.org/wiki/HD_4628"
 }
@@ -4052,14 +4052,14 @@ Barycenter 84709 "Gliese 667 AB:CD-34 11626 AB"
 	Dec	-77.25279547
 	Distance	24.327 # 134.07 +/- 0.11 mas
 
-	Radius<rS>	1.809
+	Radius	1258521.3
 	SpectralType	"G0V"
 	AppMag	2.79
 	Temperature	5872
 
 	UniformRotation
 	{
-	    Period<d>	23.0
+	    Period	552
 		Inclination	0
 		AscendingNode	0
 	}
@@ -4092,7 +4092,7 @@ Barycenter 5336 "MU Cas:30 Cas:Gliese 53"
 # Rotation period from Justesen and Albrecht (2020), A&A 642, id.A212
 "MU Cas A:30 Cas A:Gliese 53 A"
 {
-	Radius<rS> 0.789
+	Radius	548907.3
 	SpectralType	"G5V"
 	AppMag	5.166
 	Temperature	5306
@@ -4110,7 +4110,7 @@ Barycenter 5336 "MU Cas:30 Cas:Gliese 53"
 
 	UniformRotation
 	{
-	    Period<d>	29.8
+	    Period	715.2
 		Inclination	0
 		AscendingNode	0
 	}
@@ -4187,14 +4187,14 @@ Barycenter 83945 "GJ 3991:Giclas 203-47"
 	Dec	-31.56626896
 	Distance	24.7929 # 131.5525 +/- 0.0275 mas
 
-	Radius<rS>	0.629
+	Radius	437595.3
 	SpectralType	"K4Ve"
 	AppMag	6.48
 	Temperature	4711
 
 	UniformRotation
 	{
-	    Period<d>	9.87
+	    Period	236.88
 		Inclination	0
 		AscendingNode	0
 	}
@@ -4210,14 +4210,14 @@ Barycenter 83945 "GJ 3991:Giclas 203-47"
 	Dec	20.26551918
 	Distance	24.8046 # 131.4903 +/- 0.1515 mas
 
-	Radius<rS>	0.8101
+	Radius	563586.57
 	SpectralType	"K1V"
 	AppMag	5.24
 	Temperature	5242
 
 	UniformRotation
 	{
-	    Period<d>	35.2
+	    Period	844.8
 	}
 	InfoURL "https://en.wikipedia.org/wiki/107_Piscium"
 }
@@ -4300,7 +4300,7 @@ Modify 65859 # Ross 490
 
 	UniformRotation
 	{
-	    Period<d>	0.318
+	    Period	7.632
 		Inclination	0
 		AscendingNode	0
 	}
@@ -4317,13 +4317,13 @@ Modify 65859 # Ross 490
 #   https://ui.adsabs.harvard.edu/abs/2022A%26A...666A..20P/abstract
 Modify 91262 # Vega
 {
-	Radius<rS>	2.726           # Equatorial radius: 2.726 ± 0.006 / Polar radius: 2.418 ± 0.012
+	Radius	1896478.2           # Equatorial radius: 2.726 ± 0.006 / Polar radius: 2.418 ± 0.012
 	SemiAxes	[ 1 0.8870 1 ]     # Flattening: 0.1130
 	Temperature	9360            # Surface-averaged temperature
 
 	UniformRotation
 	{
-		Period<d>     0.6798
+		Period     16.3152
 		Inclination   150.91    # Inclination = 6.2
 		AscendingNode 208.14    # Pole position angle = -58
 	}
@@ -4341,7 +4341,7 @@ Modify 12781 # Gliese 109
 #   https://ui.adsabs.harvard.edu/abs/2014A%26A...569A..45H/abstract
 Modify 113368 # Fomalhaut / Alf PsA
 {
-	Radius<rS>	1.8             # Equatorial radius: 1.8 ± 0.2
+	Radius	1252260             # Equatorial radius: 1.8 ± 0.2
 	SemiAxes	[ 1 0.98 1 ]    # Equatorial-to-polar radii ratio: 1.02 ± 0.11
 	Temperature	8760
 
@@ -4363,14 +4363,14 @@ Modify 113368 # Fomalhaut / Alf PsA
 	Dec	2.10615776
 	Distance	25.1575    # Gaia DR3: 129.645882 +/- 0.017464
 
-	Radius<rS>	0.564
+	Radius	392374.8
 	SpectralType	"K7V"
 	AppMag	7.56
 	Temperature	4124
 
 	UniformRotation
 	{
-		Period<d>	11.94
+		Period	286.56
 	}
 	InfoURL "https://en.wikipedia.org/wiki/Gliese_673"
 }
@@ -4383,14 +4383,14 @@ Modify 113368 # Fomalhaut / Alf PsA
 	Dec	6.96133101
 	Distance	26.1721    # Gaia DR3: 124.619801 +/- 0.224570
 
-	Radius<rS>	1.3223
+	Radius	919924.11
 	SpectralType	"F6V"
 	AppMag	3.190
 	Temperature	6441
 
 	UniformRotation
 	{
-		Period<d>	4
+		Period	96
 	}
 	InfoURL "https://en.wikipedia.org/wiki/Pi3_Orionis"
 }
@@ -4422,14 +4422,14 @@ Modify 113368 # Fomalhaut / Alf PsA
 	Dec	41.35877669
 	Distance	27.6341    # Gaia DR3: 118.026606 +/- 0.153031
 
-	Radius<rS>	1.0999
+	Radius	765200.43
 	SpectralType	"G0V"
 	AppMag	4.25
 	Temperature	5700
 
 	UniformRotation
 	{
-	    Period<d>	15.11
+	    Period	362.64
 	}
 	InfoURL "https://en.wikipedia.org/wiki/Beta_Canum_Venaticorum"
 }
@@ -4446,14 +4446,14 @@ Modify 113368 # Fomalhaut / Alf PsA
 	Dec	-18.31592210
 	Distance	27.8355    # Gaia DR3: 117.172646 +/- 0.145593
 
-	Radius<rS>	0.9867
+	Radius	686447.19
 	SpectralType	"G6.5V"
 	AppMag	4.740
 	Temperature	5538
 
 	UniformRotation                   # Assume coplanarity with debris disk
 	{
-		Period<d>	24.63
+		Period	591.12
 		Inclination	46.508860         # Inclination = 77 degrees
 		AscendingNode	195.868079    # Major axis position angle = ~65 degrees
 	}
@@ -4466,14 +4466,14 @@ Modify 113368 # Fomalhaut / Alf PsA
 	Dec	-64.86961714
 	Distance	28.0727    # Gaia DR3: 116.182579 +/- 0.133362
 
-	Radius<rS>	1.044
+	Radius	726310.8
 	SpectralType	"F9.5V"
 	AppMag	4.23
 	Temperature	5924
 
 	UniformRotation
 	{
-		Period<d>	15.653
+		Period	375.672
 	}
 	InfoURL "https://en.wikipedia.org/wiki/Zeta_Tucanae"
 }
@@ -4648,7 +4648,7 @@ Barycenter 2026342520 "Alula Australis B:XI UMa B:53 UMa B:Gliese 423 B:ADS 8119
 
 	UniformRotation
 	{
-	    Period<d>	48
+	    Period	1152
 	}
 	InfoURL "https://en.wikipedia.org/wiki/Gliese_183"
 }
@@ -4665,7 +4665,7 @@ Barycenter 2026342520 "Alula Australis B:XI UMa B:53 UMa B:Gliese 423 B:ADS 8119
 
 	UniformRotation
 	{
-	    Period<d>	17.3
+	    Period	415.2
 		Inclination     0
 		AscendingNode   0
 	}
@@ -4684,7 +4684,7 @@ Barycenter 2026342520 "Alula Australis B:XI UMa B:53 UMa B:Gliese 423 B:ADS 8119
 
 	UniformRotation
 	{
-	    Period<d>	6.21
+	    Period	149.04
 	}
 	InfoURL "https://en.wikipedia.org/wiki/Gamma_Leporis"
 }
@@ -4698,14 +4698,14 @@ Barycenter 2026342520 "Alula Australis B:XI UMa B:53 UMa B:Gliese 423 B:ADS 8119
 	Dec	-9.76008366
 	Distance	29.6437    # Gaia DR3: 110.025391 +/- 0.194446
 
-	Radius<rS>	2.350
+	Radius	1634895
 	SpectralType	"K0IV"
 	AppMag	3.54
 	Temperature	5022
 
 	UniformRotation
 	{
-		Period<d>	49.568
+		Period	1189.632
 		Inclination     0
 		AscendingNode   0
 	}
@@ -4723,14 +4723,14 @@ Barycenter 2026342520 "Alula Australis B:XI UMa B:53 UMa B:Gliese 423 B:ADS 8119
 	Dec	37.69282695
 	Distance	29.9145    # Gaia DR3: 109.029640 +/- 0.019686
 
-	Radius<rS>	0.586
+	Radius	407680.2
 	SpectralType	"K1V"
 	AppMag	6.45
 	Temperature	5174
 
 	UniformRotation
 	{
-	    Period<d>	31
+	    Period	744
 	}
 	InfoURL "https://en.wikipedia.org/wiki/Groombridge_1830"
 }
@@ -4743,14 +4743,14 @@ Barycenter 2026342520 "Alula Australis B:XI UMa B:53 UMa B:Gliese 423 B:ADS 8119
 	Dec	27.88210537
 	Distance	29.9983    # Gaia DR3: 108.725009 +/- 0.164461
 
-	Radius<rS>	1.1056
+	Radius	769165.92
 	SpectralType	"G0V"
 	AppMag	4.25
 	Temperature	5957
 
 	UniformRotation
 	{
-	    Period<d>	12.3
+	    Period	295.2
 	}
 	InfoURL "https://en.wikipedia.org/wiki/Beta_Comae_Berenices"
 }
@@ -4765,7 +4765,7 @@ Barycenter 2026342520 "Alula Australis B:XI UMa B:53 UMa B:Gliese 423 B:ADS 8119
 	Dec	-65.36263997
 	Distance	30.1968    # Gaia DR3: 108.010206 +/- 0.106063
 
-	Radius<rS>	1.057
+	Radius	735354.9
 	SpectralType	"F9V"
 	AppMag	4.22
 	Temperature	6168
@@ -4788,14 +4788,14 @@ Barycenter 2026342520 "Alula Australis B:XI UMa B:53 UMa B:Gliese 423 B:ADS 8119
 	Dec	3.37061619
 	Distance	30.2550    # Gaia DR3: 107.802339 +/- 0.183760
 
-	Radius<rS>	0.9193
+	Radius	639557.01
 	SpectralType	"G5V"
 	AppMag	4.85
 	Temperature	5723
 
 	UniformRotation
 	{
-	    Period<d>	9.0648
+	    Period	217.5552
 		Inclination     0
 		AscendingNode   0
 	}
@@ -4817,14 +4817,14 @@ Barycenter 2026342520 "Alula Australis B:XI UMa B:53 UMa B:Gliese 423 B:ADS 8119
 	Dec	34.19993958
 	Distance	31.2335    # Gaia DR3: 104.425170 +/- 0.100500
 
-	Radius<rS>	0.9400
+	Radius	653958
 	SpectralType	"G8V"
 	AppMag	5.34
 	Temperature	5309
 
 	UniformRotation
 	{
-	    Period<d>	16.06
+	    Period	385.44
 	}
 	InfoURL "https://en.wikipedia.org/wiki/61_Ursae_Majoris"
 }
@@ -4849,14 +4849,14 @@ Barycenter 2026342520 "Alula Australis B:XI UMa B:53 UMa B:Gliese 423 B:ADS 8119
 	Dec	-2.32596128
 	Distance	32.2697    # Gaia DR3: 101.071888 +/- 0.050076
 
-	Radius<rS>	0.7591
+	Radius	528105.87
 	SpectralType	"K1V"
 	AppMag	5.77
 	Temperature	5337
 
 	UniformRotation
 	{
-	    Period<d>	21.1
+	    Period	506.4
 	}
 	InfoURL "https://en.wikipedia.org/wiki/12_Ophiuchi"
 }
