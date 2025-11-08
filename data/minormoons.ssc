@@ -276,7 +276,7 @@
 	Color	[ 0.397 0.398 0.396 ]  # Geometric albedo
 	BlendTexture	true
 	SemiAxes	[ 102.8 102.8 70.7 ]
-	Mass<kg>	4.2e18
+	Masskg	4.2e18
 	OrbitFrame
 	{
 		EclipticJ2000	{ Center "Sol/Jupiter" }
@@ -4644,7 +4644,7 @@
 	Mesh	"roughsphere.cms"
 	Texture	"asteroid.*"
 	SemiAxes	[ 25 18 18 ]
-	Mass<kg>	6.08e16
+	Masskg	6.08e16
 	Density	1790
 	OrbitFrame
 	{
@@ -4676,7 +4676,7 @@
 	Mesh	"roughsphere.cms"
 	Texture	"asteroid.*"
 	SemiAxes	[ 27 19 19 ]
-	Mass<kg>	3.57e16
+	Masskg	3.57e16
 	Density	870
 	OrbitFrame
 	{
@@ -4738,7 +4738,7 @@
 	Mesh	"roughsphere.cms"
 	Texture	"asteroid.*"
 	SemiAxes	[ 46 37 37 ]
-	Mass<kg>	1.839e17
+	Masskg	1.839e17
 	Density	700
 	OrbitFrame
 	{
@@ -4978,7 +4978,7 @@
 	Orientation	[ -90 0 1 0 ]
 	Texture	"puck.*"
 	Radius	83.5
-	Mass<kg>	1.91e18
+	Masskg	1.91e18
 	OrbitFrame
 	{
 		EclipticJ2000	{ Center "Sol/Uranus" }
